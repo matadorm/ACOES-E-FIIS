@@ -1,0 +1,1 @@
+Projeto que coleta e dados de bases de dados diversas e as une num documento só para posterior análise
